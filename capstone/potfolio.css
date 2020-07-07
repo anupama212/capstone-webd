@@ -1,0 +1,90 @@
+section{
+margin-top: 7rem;
+margin-bottom: 5rem ;
+padding: 2rem 3rem 3rem 3rem;}
+
+  #about{
+      background-image: url("https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80");
+      background-size: cover;
+      text-align: center;
+      font-size: 2rem;
+    }  
+h1{
+    font-size:5.5rem;
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    font-size: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#education{
+    background-image: url("https://images.unsplash.com/photo-1497864149936-d3163f0c0f4b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80");
+    background-size: cover;
+    text-align: right;
+    font-size: 2.5rem;
+    color: blanchedalmond;
+
+}
+h2{
+    font-size: 5.5rem;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h3{
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: burlywood;
+}
+
+body{
+
+}
+
+#skills{
+    background-image: url("https://images.unsplash.com/photo-1493723843671-1d655e66ac1c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80");
+    background-size: cover;
+
+}
+ul{
+    font-size: 3rem;
+    margin-left: 7px;
+}
+
+#interests{
+    background-image: url("https://images.unsplash.com/photo-1531315630201-bb15abeb1653?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=375&q=80");
+    background-size: cover;
+
+}
+body{
+    background-color: darkblue;
+}
+
+#c{
+    text-decoration: none;
+    color: rgb(160, 216, 218);
+    border: 3px black solid;
+    padding: 10px;
+    border-radius: 15%;
+    margin: 10px;
+    margin-bottom: 2rem;
+    background-color: rgb(141, 17, 24);
+    text-align: center;
+}
+h4{
+    text-align: center;
+    font-size: 3rem;
+    color: rgb(226, 138, 109);
+    margin-bottom: 2rem;
+    text-transform: uppercase;
+
+}
+
+
+
+
+
+
+
